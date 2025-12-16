@@ -5,7 +5,7 @@ Welcome to Exstructa! Exstructa aims to unify multiple work functions to make it
 Exstructa offers a variety of different features all packed into one place. Exstructa offers the ability to create servers which, much like our competitors, will have text and voice channels with the latest and fastest equipment which dwarf others. In each server we have kindly introduced a group calendar which can have events of your choosing added to them. To make sure nobody is up to no good, we have added both static and dynamic roles to your servers. The static roles have been predetermined by Extructa staff to be up to standard with crowd control. The dynamic roles however, can be created by you and you can make them almost as powerful as you want! Exstructa has also included a contact list so you can have a catalog of all of your FAVORITE people in one place. Finally, in the contact list, you can direct message those favorite people of yours to stay connected and updated with each other.
 
 ## Support
-As we lauch our brand new product, you might have some questions for us. If you do please click the link <a href="https://www.ExstructaHelpDesk.com"> ExstructaSupport </a> and send us a support ticket
+As we lauch our brand new product, you might have some questions for us. If you do please click the link <a href="https://www.ExstructaHelpDesk.com"> ExstructaSupport </a> and send us a support ticket. We will get to you as soon as possible!
 
 
 
