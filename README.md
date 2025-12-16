@@ -14,7 +14,7 @@ This folder contains a system context diagram and an outline about Exstructa. It
 This content focuses on key elements such as the input, output, processes, performance, and security for Exstructa features. It contains additional documents to support the project, these being: System Sequence Diagrams, Use Case Descriptions, Use Case Scenarios, and a class Diagram. This folder also contains the possible UI meant for our application. 
 
 ### System Design Document
-This folder contains the final phase of the project. It contains documents like the Class Design Diagram, Pseudocode for each class, System Sequence Diagrams, and .
+This folder contains the final phase of the project. It contains documents like the Class Design Diagram, Pseudocode for each class, System Sequence Diagrams, and Statechart diagrams.
 
 ### Additional documents
 Outside folders you only have this README file and the schedule of Exstructa and all its phases on a Microsoft Project file.
