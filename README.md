@@ -1,31 +1,11 @@
 # Exstructa 
-This repository contains files related to the "Exstructa" team project done by team 4-Legion. It is designed to integrate multiple functions of a work environment into one, allowing companies to avoid purchasing multiple licenses and enabling employees to use a single application.
-
-** Table Of Contents **
-1. [**Exstructa**](https://github.com/rosasmolinagabri/Team4/edit/main/README.md#exstructa-features)
-
+Welcome to Exstructa! Exstructa aims to unify multiple work functions to make it easier for people to collaborate effectively. By bringing different tools that are normally on separated apps together, we make the workflow faster and more fluid. It is designed to integrate multiple functions into one, allowing enterprises to avoid purchasing multiple licenses and enabling employees to use a single application. Exstructa’s focus is to create a user-friendly collaboration app to ensure an easier and faster work environment. The benefits to the users are also a big priority. Users will be able to seamlessly contact anybody of their choosing and are able to share and use a multiplicity of features with either personal or server level chats.
 
 ## Exstructa Features
+Exstructa offers a variety of different features all packed into one place. Exstructa offers the ability to create servers which, much like our competitors, will have text and voice channels with the latest and fastest equipment which dwarf others. In each server we have knindly introduced a group calendar which can have events of your choosing added to them. To make sure nobody is up to no good, we have added both static and dynamic roles to your servers. The static roles have been predetermined by Extructa staff to be up to standard with crowd control. The dynamic roles however, can be created by you and you can make them almost as powerful as you want! 
 
-Exstructa schedule: this is the Microsoft Project file containing the project's dates and work to be done
 
-README: short summary with overviews and explanation of what each file does. 
+##
 
-Project Plan: folder containing all of the information related to the Project Plan phase. 
-documents in this folder:
-- Software Project Plan Outline(1): this folder contains the main document of the project plan. It contains the introduction, system scope, schedule, organization, and tracking and control mechanisms.
-- System Context Diagram1. A SCD of the Exstructa project
-
-SystemRequrements: folder containing all of the information related to the System Requirements phase
-- ExstructaSystemSequenceDiagramFixed: final version of the SSD
-- ExstructaUseCaseDescriptionsFixed: final version of the use case descriptions
-- System Requirements Exstructa: word document containing the introduction, description model, and the use case diagram of the project. It also references that the other files are found seprately.
-- UiMockupExstructa: a pdf containing the UI of the application
-- UseCaseExstructaFixed: the use case scenarios of Exstructa. It is also found inside the system requirements file.
-- classDiagramExstructa Revised: the class diagram (not design class) of the Exstructa project.
-
-System Design Document: folder containing all of the information related to the System Design phase
-- DesignClassDiagramExstructa: it contains the Design Class Diagram for the project. It is an advanced version of a Class Diagram with going more in debt in attributes and methods
-- Pseudocode Exstructa: goes in line with the Design Class Diagram, expanding a bit more on the methods by having pseudocode to indicate what each method does. 
 
 
