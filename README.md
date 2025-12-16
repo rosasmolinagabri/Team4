@@ -1,7 +1,11 @@
-# Exstructa repository
+# Exstructa 
 This repository contains files related to the "Exstructa" team project done by team 4-Legion. It is designed to integrate multiple functions of a work environment into one, allowing companies to avoid purchasing multiple licenses and enabling employees to use a single application.
 
-# Files in the repository:
+** Table Of Contents **
+[**Exstructa**](https://github.com/rosasmolinagabri/Team4/edit/main/README.md#exstructa-features)
+
+
+## Exstructa Features
 
 Exstructa schedule: this is the Microsoft Project file containing the project's dates and work to be done
 
